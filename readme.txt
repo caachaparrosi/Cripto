@@ -1,11 +1,5 @@
 CRYPTOMEN
 
-Integrantes:
-- Sebastian Moreno Reina
-- Harold Andrés Bartolo Moscoso
-- Francisco Javier Bernal Caro
-- Adriano Ramón Hernández
-
 Para correr este sistema de ejemplo se necesita instalar MongoDB (version minima: 4.4.6)
 
 Para ejecutar este sistema se tiene que ejecutar los siguientes comandos en una terminal teniendo el directorio base del proyecto seleccionado):
